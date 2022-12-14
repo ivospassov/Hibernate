@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab0e26a1-1984-4338-ab02-d2c0393742d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Town.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/AddingANewAddressAndUpdatingEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/AddressesWithEmployeeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/ChangeCasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/ContainsEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/EmployeesFromDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/EmployeesMaximumSalaries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/EmployeesWithSalaryOver50000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/FindEmployeesByFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/FindLatest10Projects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/GetEmployeeWithProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/IncreaseSalaries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_intro/RemoveTowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GRkx0ClLHmDlEeLqvSpxWAtLSn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Introduction-to-Hibernate\src\main\resources\META-INF" />
+      <recent name="C:\Users\User\IdeaProjects\Introduction-to-Hibernate\src\main\java\entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RemoveTowns">
+    <configuration name="EmployeesMaximumSalaries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_intro.EmployeesMaximumSalaries" />
+      <module name="Introduction-to-Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindEmployeesByFirstName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_intro.FindEmployeesByFirstName" />
+      <module name="Introduction-to-Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindLatest10Projects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_intro.FindLatest10Projects" />
+      <module name="Introduction-to-Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncreaseSalaries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_intro.IncreaseSalaries" />
+      <module name="Introduction-to-Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveTowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_intro.RemoveTowns" />
+      <module name="Introduction-to-Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoveTowns" />
+        <item itemvalue="Application.EmployeesMaximumSalaries" />
+        <item itemvalue="Application.FindEmployeesByFirstName" />
+        <item itemvalue="Application.IncreaseSalaries" />
+        <item itemvalue="Application.FindLatest10Projects" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab0e26a1-1984-4338-ab02-d2c0393742d8" name="Changes" comment="" />
+      <created>1666359029634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666359029634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:javax.persistence:javax.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hibernate_intro/RemoveTowns.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
